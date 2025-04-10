@@ -4,6 +4,13 @@
 
 Animee is a cutting-edge Next.js application that transforms NFTs into interactive VTuber avatars, enabling users to stream with personalized digital personas that respond to facial expressions, body movements, and hand gestures in real-time.
 
+![Demo](/assets/videos/intro.mp4)
+
+![characters](/assets/images/characters.png)
+![stream](/assets/images/stream.png)
+![profile](/assets/images/profile.png)
+![multi](/assets/images/multi.png)
+
 ## ✨ Features
 
 -   **NFT-Powered Avatars**: Use your NFT collections as fully-rigged VTuber avatars
